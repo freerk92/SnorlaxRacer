@@ -1,0 +1,6 @@
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentprojResolveAssemblyReference.cache
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentproj.AssemblyReference.cache
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTakenContent\obj\x86\Debug\SnorlaxRacerContent.contentproj.CoreCompileInputs.cache

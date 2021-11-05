@@ -1,0 +1,161 @@
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track3.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track4.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track3.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track4.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.exe
+C:\Users\Freerk\Desktop\Powerpoint\Eindversie\SnorlaxRacer2\LOL\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.pdb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track3.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track4.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Collision.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Countdown.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Kootenay.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Kootenay1.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.exe
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\SnorlaxRacing.pdb
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csproj.AssemblyReference.cache
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacer.csproj.CoreCompileInputs.cache
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.exe
+C:\Users\freer\Documents\Git\SnorlaxRacer\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\SnorlaxRacing.pdb

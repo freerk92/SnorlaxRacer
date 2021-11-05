@@ -1,0 +1,257 @@
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Courier New.xnb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Bureaublad\TheRoadNotTaken\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Sylvius\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Road\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Downloads\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Eigenaar\Desktop\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Downloads\Gloria Moria (1)\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Track.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackOverlay.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\TrackTop.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Button2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\MainMenu.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Car1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Active.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\Arial.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\acceleration2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash1.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\crash2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\idle2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\lowfuel2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\reverse.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\theme.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\topspeed2.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\Content\turbo.xnb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\bin\x86\Debug\TheRoadNotTaken.pdb
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.csprojResolveAssemblyReference.cache
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.exe
+C:\Users\Freerk\Desktop\Powerpoint\Gloria Moria\Road1\TheRoadNotTaken\TheRoadNotTaken\obj\x86\Debug\TheRoadNotTaken.pdb
